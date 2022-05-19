@@ -37,13 +37,9 @@ html, body {
 }
 
 .passos > div > img {
-    width: 80%;
+    height: 80%;
     margin: auto;
     border: 1px solid green;
-}
-
-.passo-0 > *{
-    margin: 200px auto;
 }
 
 .passos > div.passo-ativo{
